@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究汇报与PPT分步制作"
+  short_description: "按需调用资料、大纲、预览、可编辑PPT、讲稿与Excel底稿模块"
+  default_prompt: "使用 $research-presentation，根据当前任务只执行对应模块，沿用已确认内容与模板，遵守预览和PPT制作的阶段边界。"
