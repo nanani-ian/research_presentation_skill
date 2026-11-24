@@ -1,0 +1,238 @@
+[
+  {
+    "id": "L01",
+    "name": "文字引导＋下方并列证据",
+    "sources": [
+      {
+        "deck_id": "gf-token",
+        "page": 13
+      },
+      {
+        "deck_id": "herbal-industry",
+        "page": 15
+      }
+    ],
+    "composition": "先用短段解释比较目的，下方图表分别承担证据；每幅图有紧贴上方的图题。",
+    "when_to_use": "多个图回答同一问题；正文只解释关系。",
+    "adaptation": "不要把图放大到挤掉解释，也不强塞第三幅图。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L02",
+    "name": "主图＋侧栏解释",
+    "sources": [
+      {
+        "deck_id": "gf-token",
+        "page": 16
+      },
+      {
+        "deck_id": "herbal-industry",
+        "page": 27
+      },
+      {
+        "deck_id": "template-8",
+        "page": 7
+      }
+    ],
+    "composition": "主体区域放流程或一组相关图，较窄一侧按阶段或问题写解释；同一基线对齐。",
+    "when_to_use": "流程、机制或多指标需要逐项解释。",
+    "adaptation": "侧栏不能成为与图无关的结论堆积区。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L03",
+    "name": "时间线＋补充比较表",
+    "sources": [
+      {
+        "deck_id": "gf-token",
+        "page": 6
+      },
+      {
+        "deck_id": "herbal-industry",
+        "page": 12
+      }
+    ],
+    "composition": "时间轴保持完整顺序，节点文字简短；补充表或说明放侧边。",
+    "when_to_use": "政策、融资或项目历程。",
+    "adaptation": "节点多时先换行重排或拆页，不为排版删除关键节点。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L04",
+    "name": "整页比较表＋短引导",
+    "sources": [
+      {
+        "deck_id": "gf-token",
+        "page": 19
+      },
+      {
+        "deck_id": "gf-token",
+        "page": 25
+      },
+      {
+        "deck_id": "herbal-industry",
+        "page": 18
+      }
+    ],
+    "composition": "开头说明比较维度，主体用有行列层级的表格；颜色区分表头和必要分组。",
+    "when_to_use": "政策、权责、多案例或多主体比较。",
+    "adaptation": "表格每列应有可比含义，不能把大段原文塞入单元格。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L05",
+    "name": "主证据＋辅助证据",
+    "sources": [
+      {
+        "deck_id": "herbal-industry",
+        "page": 5
+      },
+      {
+        "deck_id": "herbal-industry",
+        "page": 32
+      }
+    ],
+    "composition": "先建立主阅读区，再用对齐的小图、表、说明条补充；不是每个模块等大。",
+    "when_to_use": "一页需要多种证据互相补充。",
+    "adaptation": "多图不等于等权；附图无法读清时减少装饰或拆页。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L06",
+    "name": "短标签＋说明条",
+    "sources": [
+      {
+        "deck_id": "template-10",
+        "page": 4
+      },
+      {
+        "deck_id": "template-6",
+        "page": 5
+      },
+      {
+        "deck_id": "template-6",
+        "page": 30
+      },
+      {
+        "deck_id": "template-8",
+        "page": 14
+      }
+    ],
+    "composition": "短标签负责导航，解释段落占主要空间；纵向排列保持左边界、间距一致。",
+    "when_to_use": "两至四项条件、风险、发现、行动。",
+    "adaptation": "有几项写几项，不为模板凑满；段落不逐句拆框。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L07",
+    "name": "总述＋分项展开",
+    "sources": [
+      {
+        "deck_id": "template-6",
+        "page": 19
+      },
+      {
+        "deck_id": "template-8",
+        "page": 11
+      },
+      {
+        "deck_id": "template-8",
+        "page": 19
+      }
+    ],
+    "composition": "一侧或顶部建立总问题，另一侧或下方列分项并附解释。",
+    "when_to_use": "总分结构、若干机制或结论。",
+    "adaptation": "无方向的总分不要画成因果链；左右内容分量随材料调整。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L08",
+    "name": "左右对照",
+    "sources": [
+      {
+        "deck_id": "template-6",
+        "page": 6
+      },
+      {
+        "deck_id": "template-6",
+        "page": 22
+      },
+      {
+        "deck_id": "gf-token",
+        "page": 13
+      }
+    ],
+    "composition": "同一维度两侧比较；需要变化时用行对应，只有实际转化才画箭头。",
+    "when_to_use": "前后治理、两种路径、国内外比较。",
+    "adaptation": "左右段落长度不必强行相等，不把互补关系写成对抗。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L09",
+    "name": "流程主轴＋上下解释",
+    "sources": [
+      {
+        "deck_id": "template-6",
+        "page": 11
+      },
+      {
+        "deck_id": "template-8",
+        "page": 5
+      }
+    ],
+    "composition": "流程方向清楚，解释就近对应节点；必要时上下交替以留出阅读宽度。",
+    "when_to_use": "研究方法、实施流程、机制传导。",
+    "adaptation": "时间、因果和分类应区分；相邻不自动代表因果。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L10",
+    "name": "少量并列说明",
+    "sources": [
+      {
+        "deck_id": "template-10",
+        "page": 9
+      },
+      {
+        "deck_id": "template-10",
+        "page": 14
+      }
+    ],
+    "composition": "两至四组相对独立信息，统一标题基线与正文宽度，用留白或细线区分。",
+    "when_to_use": "确有平行比较的维度。",
+    "adaptation": "不要全套重复卡片；原模板图标和大色块可减弱。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L11",
+    "name": "解释＋数据图＋图下判断",
+    "sources": [
+      {
+        "deck_id": "template-8",
+        "page": 16
+      }
+    ],
+    "composition": "一侧解释比较含义，另一侧数据图，图下放必要的总体判断。",
+    "when_to_use": "少量分类数值且需要解释。",
+    "adaptation": "原例柱形为装饰性示意；正式数据用Excel原生图，保留类别、单位、轴和来源。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  },
+  {
+    "id": "L12",
+    "name": "依据与含义分层",
+    "sources": [
+      {
+        "deck_id": "gf-token",
+        "page": 27
+      },
+      {
+        "deck_id": "herbal-industry",
+        "page": 32
+      }
+    ],
+    "composition": "先写观察或依据，再用轻描边或浅底短句说明含义；关键反例或边界证据相邻。",
+    "when_to_use": "启示、结论或机制解释。",
+    "adaptation": "不要每段都框住，不反复说防御性免责声明，必要边界只在影响判断处写明。",
+    "geometry": "内容驱动；不锁定比例或坐标，在预览中调整。"
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "created": "2026-11-13",
+  "purpose": "辅助版式参考，非事实来源、非可编辑PPT母版",
+  "rendering": "Microsoft PowerPoint只读打开现有PPT，Export PNG，1280×720；选页转换WebP。未新建、保存或改写PPT。",
+  "source_integrity": "五份原件导出前后SHA256一致。",
+  "scope": "中药行研仅从公司分析之前的页面选择样例；公司分析P34及以后未纳入。",
+  "sources": [
+    {
+      "id": "gf-token",
+      "sha256": "d3cdbc7cfbfe667c3cb5afecca34db9fba95868799f8138e33036ef05dc19b0e",
+      "slide_count": 32,
+      "size_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "selected_pages": [
+        {
+          "page": 6,
+          "use": "政策时间线＋右侧表"
+        },
+        {
+          "page": 13,
+          "use": "上文＋并列机制图"
+        },
+        {
+          "page": 16,
+          "use": "左流程＋右阶段说明"
+        },
+        {
+          "page": 19,
+          "use": "整页比较表"
+        },
+        {
+          "page": 25,
+          "use": "多案例比较矩阵"
+        },
+        {
+          "page": 27,
+          "use": "分层解释＋边界证据"
+        }
+      ]
+    },
+    {
+      "id": "herbal-industry",
+      "sha256": "e7f2c01ae506de5bbb9705e8c7a6934e8d48906a2364c9079aa02e3b9bd02179",
+      "slide_count": 39,
+      "size_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "selected_pages": [
+        {
+          "page": 5,
+          "use": "上文＋下方多图"
+        },
+        {
+          "page": 12,
+          "use": "完整节点时间线"
+        },
+        {
+          "page": 15,
+          "use": "上文＋柱图与占比图"
+        },
+        {
+          "page": 18,
+          "use": "上文＋政策表"
+        },
+        {
+          "page": 27,
+          "use": "左侧三图＋右侧解释"
+        },
+        {
+          "page": 32,
+          "use": "主图＋说明条＋表与侧图"
+        }
+      ]
+    },
+    {
+      "id": "template-10",
+      "sha256": "8fbf0e24a9e043f27f76bf2aed79e3666dd1201ab23d14c7302174363cc0bc71",
+      "slide_count": 23,
+      "size_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "selected_pages": [
+        {
+          "page": 1,
+          "use": "封面横向色带"
+        },
+        {
+          "page": 3,
+          "use": "章节过渡"
+        },
+        {
+          "page": 4,
+          "use": "短标签＋横向说明条"
+        },
+        {
+          "page": 9,
+          "use": "四组并列短文"
+        },
+        {
+          "page": 14,
+          "use": "三列同维度说明"
+        },
+        {
+          "page": 21,
+          "use": "总述＋底部四点"
+        }
+      ]
+    },
+    {
+      "id": "template-6",
+      "sha256": "f1adc27a049992ed123612e4fb548a9743c3bb11b371109e47ec8c69d1a0472a",
+      "slide_count": 37,
+      "size_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "selected_pages": [
+        {
+          "page": 5,
+          "use": "总主题＋分项说明"
+        },
+        {
+          "page": 6,
+          "use": "两类文献上下比较"
+        },
+        {
+          "page": 11,
+          "use": "横向流程＋上下解释"
+        },
+        {
+          "page": 19,
+          "use": "左主旨＋右侧分项"
+        },
+        {
+          "page": 22,
+          "use": "左右对照"
+        },
+        {
+          "page": 30,
+          "use": "纵向条带说明"
+        }
+      ]
+    },
+    {
+      "id": "template-8",
+      "sha256": "befb1d8d909184d0b57fbc612486ab9d88a253b1dc4baa70eb4bf47e3b544d01",
+      "slide_count": 23,
+      "size_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "selected_pages": [
+        {
+          "page": 5,
+          "use": "折返阶段路径"
+        },
+        {
+          "page": 7,
+          "use": "左侧说明＋右图"
+        },
+        {
+          "page": 11,
+          "use": "左总述＋右分项"
+        },
+        {
+          "page": 14,
+          "use": "纵向简洁条目"
+        },
+        {
+          "page": 16,
+          "use": "左解释＋右图＋图下结论"
+        },
+        {
+          "page": 19,
+          "use": "总分树形结构"
+        }
+      ]
+    }
+  ],
+  "notes": "发布版保留来源标识、选页码和观察用途。原件、截图及本机路径留在本地版本。"
+}
